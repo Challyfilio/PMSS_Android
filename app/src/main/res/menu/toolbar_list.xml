@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/serach"
+        android:icon="@drawable/search"
+        android:title="搜索"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/insert"
+        android:icon="@drawable/insert"
+        android:title="添加病历"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/sidemenu"
+        android:icon="@drawable/sidemenu"
+        android:title="侧边栏"
+        app:showAsAction="always" />
+</menu>

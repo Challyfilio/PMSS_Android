@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/itme_1"
+        android:layout_centerInParent="true"
+        android:title="                     📑    识别二维码"/>
+    <item
+        android:id="@+id/itme_2"
+        android:gravity="center"
+        android:title="                     🍅    番茄计时器" />
+    <item
+        android:id="@+id/itme_3"
+        android:gravity="center"
+        android:title="                     💗    心率测量" />
+    <item
+        android:id="@+id/itme_4"
+        android:gravity="center"
+        android:title="                     💕    心率数据" />
+    <item
+        android:id="@+id/itme_5"
+        android:gravity="center"
+        android:title="                     🎐    健康数据" />
+    <item
+        android:id="@+id/itme_6"
+        android:gravity="center"
+        android:title="                     🚑    问题咨询" />
+    <item
+        android:id="@+id/itme_7"
+        android:gravity="center"
+        android:title="                     ❎    登出账号" />
+</menu>
